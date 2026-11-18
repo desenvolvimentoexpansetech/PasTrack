@@ -127,6 +127,7 @@ e2e/            testes ponta a ponta com Playwright
 docs/           documentação e diagramas do projeto
 scripts/        geradores e o relatório de testes
 tests/results/  evidências versionadas das execuções de teste
+
 - Thiago Araújo
 - Fabrício Alves
 - Joseph Correa
